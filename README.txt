@@ -1,4 +1,4 @@
-Created a Dockerfile took the base image as centos6
+Created a Dockerfile took the base image as ubuntu
 
 Build a docker image from Dockerfile
    
